@@ -18,12 +18,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DDSTextureLoader.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Shapes.h">
+    <ClInclude Include="LoadObj.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LoadObj.h">
+    <ClInclude Include="DDSTextureLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SharedDefines.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
