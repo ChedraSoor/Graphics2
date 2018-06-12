@@ -32,5 +32,11 @@
     <ClInclude Include="SharedDefines.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="EngineMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetsDrawSomeStuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

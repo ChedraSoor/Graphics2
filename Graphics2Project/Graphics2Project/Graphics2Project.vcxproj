@@ -148,6 +148,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DDSTextureLoader.h" />
+    <ClInclude Include="EngineMath.h" />
+    <ClInclude Include="LetsDrawSomeStuff.h" />
     <ClInclude Include="LoadObj.h" />
     <ClInclude Include="SharedDefines.h" />
   </ItemGroup>
